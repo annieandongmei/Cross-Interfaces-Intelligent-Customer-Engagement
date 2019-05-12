@@ -10,7 +10,7 @@ The one never-changing equation in any business is increasing revenue and reduci
 Opinions shared here are on my own. The reason of this thought is that I want to use this to calibrate myself when I meet my customers, evaluate whether I spend the right amount of time with the right customers.
 
 
-![Cross-Interfaces-Intelligent-Customer-Engagement.drawio](Cross-Interfaces-Intelligent-Customer-Engagement.drawio)
+![Cross-Interfaces-Intelligent-Customer-Engagement.png](Cross-Interfaces-Intelligent-Customer-Engagement.png)
 
 
 Watch out this space for updates!
