@@ -1,9 +1,9 @@
-# Cross-Interfaces-Intelligent-Customer-Engagement
+# Cross Interfaces Intelligent Customer Engagement
 
 
 This describes the Cross-Interfaces-Intelligent-Customer-Engagement. <br />
-**1. why this is important.** <br />
-**2. how to achieve it - a sample technical architecture diagram using AWS services.** (there can be various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.) <br />
+**1. Why This is Important.** <br />
+**2. How to Achieve it - a sample technical architecture diagram using AWS services.** (there can be various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.) <br />
 **3. what it looks like** - a demo <br/>
 **4. how to build it** - a lab 
 
