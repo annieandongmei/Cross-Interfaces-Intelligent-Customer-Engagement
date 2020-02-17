@@ -25,7 +25,8 @@ There are various ways of architecting this depending on the requirements. For e
 ## 3. What it Looks Like ##
 
 ## 4. How to Build it ## 
-Hands-on Lab Level 300 - How to build one working chatbot 
+The lab is Lex-centered to demonstrate omni-channel. 
+Hands-on Lab Level 300 - **How to build ONE working chatbot and use it on FIVE channels? Web, Telephony, Facebook, Alexa, Mobile Apps, Sumerian ** 
 
 
 ## Appendix ##
