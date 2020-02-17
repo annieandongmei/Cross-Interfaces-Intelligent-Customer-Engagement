@@ -22,6 +22,11 @@ In such cases, AWS has the competency and eco-system of voice, text, chatbot, te
 There are various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.
 ![Cross-Interfaces-Intelligent-Customer-Engagement.png](Cross-Interfaces-Intelligent-Customer-Engagement.png)
 
+## 3. What it Looks Like ##
+
+## 4. How to Build it ## 
+Hands-on Lab Level 300 - How to build one working chatbot 
+
 
 ## Appendix ##
 
