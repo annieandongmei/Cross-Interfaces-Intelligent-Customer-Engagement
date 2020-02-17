@@ -19,14 +19,8 @@ Cross interface customer engagment, aka, cognitive experiences, or omni-channels
 ![Cross-Interfaces-Intelligent-Customer-Engagement.gif](Cross-Interfaces-Intelligent-Customer-Engagement.gif)
 In such cases, AWS has the competency and eco-system of voice, text, chatbot, telephony, Sumerian, analytics, AI, Personalize, all on AWS platform. It reduces the integration efforts and gain customers insight more efficiently and quickly. 
 
-
-
-
-
-
-
-![Cross-Interfaces-Intelligent-Customer-Engagement.png](Cross-Interfaces-Intelligent-Customer-Engagement.png)
 There are various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.
+![Cross-Interfaces-Intelligent-Customer-Engagement.png](Cross-Interfaces-Intelligent-Customer-Engagement.png)
 
 
 ## Appendix ##
