@@ -39,11 +39,10 @@ This Lab will cover AWS Lambda, Amazon Lex, Amazon Connect, Alexa Skill Kit, AWS
 **Detailed breakdown:**
 | AWS Services  | Features      | Remarks|
 |:------------- |:--------------|:------|
-| Amazon Lambda| Serverless, Lambda Triggers, Cloudwatch Monitoring, Data Dipping |   |
-| Amazon Lex  | Integration with social media channels, such as Facebook, Integration with Web UI, Use Error Handling, Fallback Handing, Synonym, Custom Slots to Increase Accuracy, Conversation History, Logging, Natural Language Understanding v.s. Cards  |   |
-| AWS Connect | Setup Connect Instance, Claim Number, Create Callflow, Integration with Chatbot on Lex, Call Recording, Sentiments Analysis, Credit Card Masking, Data Dipping, etc.    | 
-@Amazon Connect Specialist team for more detailed content to be included   |
-| Alexa Skill Kit | Use of Lex Chatbot to create Alexa Skill, Design and Development of Alexa Skill, Design Principles of Voice Skills, Operational Best Practices - text vs voice, Monitoring Dashboard, etc. | This content is flexible, can be shorten or lengthen depending on time   |
+| Amazon Lambda| Serverless, Lambda Triggers, Cloudwatch Monitoring, Data Dipping |  refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features  |
+| Amazon Lex  | Integration with social media channels, such as Facebook, Integration with Web UI, Use Error Handling, Fallback Handing, Synonym, Custom Slots to Increase Accuracy, Conversation History, Logging, Natural Language Understanding v.s. Cards  | refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features |
+| AWS Connect | Setup Connect Instance, Claim Number, Create Callflow, Integration with Chatbot on Lex, Call Recording, Sentiments Analysis, Credit Card Masking, Data Dipping, etc.    | To contact Amazon Connect Specialist team for more detailed content to be included   |
+| Alexa Skill Kit | Use of Lex Chatbot to create Alexa Skill, Design and Development of Alexa Skill, Design Principles of Voice Skills, Operational Best Practices - text vs voice, Monitoring Dashboard, etc. | This content is flexible, can be shorten or lengthen depending on time. refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features  |
 | AWS Mobile | Create a simple app, Integration with Chatbot    | This content is flexible, can be shorten or lengthen depending on time   |
 
 
