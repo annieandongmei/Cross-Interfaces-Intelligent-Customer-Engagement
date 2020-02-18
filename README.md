@@ -27,9 +27,16 @@ There are various ways of architecting this depending on the requirements. For e
 ## 4. How to Build it ## 
 The lab is Lex-centered to demonstrate omni-channel. </br>
 
-Hands-on Lab Level 300~400- **Build the new omni-channel in the fastest way using AWS: How to build ONE chatbot and use it on SIX channels? Web, Telephony (Amazon Connect), Facebook, Alexa, Mobile Apps, Virtual Avatar (Amazon Sumerian)** </br>
+Hands-on Lab Level 300~400 - **Build the new omni-channel in the fastest way using AWS: How to build ONE chatbot and use it on SIX channels? Web, Telephony (Amazon Connect), Facebook, Alexa, Mobile Apps, Virtual Avatar (Amazon Sumerian)** </br>
 This Lab will cover AWS Lambda, Amazon Lex, AWS Mobile Services, Alexa Skill Kit, Sumerian, Amazon Connect.</br>
 *This is draft only. The lab is modular and do not need to cover all channels if not required. If Amazon Connect is the focus, there can be more content on Amazon Connect, Data Dipping, Lambda, Lex, and no need to cover Web, Alexa, etc.*
+
+Detailed breakdown:
+| AWS Services  | Features      | Remarks|
+|:------------- |:-------------|: -----|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
@@ -37,6 +44,5 @@ This Lab will cover AWS Lambda, Amazon Lex, AWS Mobile Services, Alexa Skill Kit
 
 Opinions shared here are on my own. The reason of this thought is that I want to use this to calibrate myself when I meet my customers, evaluate whether I spend the right amount of time with the right customers.
 
-
-•	Personalized Omni Channel Strategy and Amazon Connect. Couple of enterprise customers in Singapore are looking at Omni-channel solution. One example is OCBC. Omni channel generally refers to one central information or management platform and with support to multiple user engagement channels, e.g., text, voice. In AWS, the information collected from different channels can feedback to our analytics engine to personalize the consumer engagement. In some Amazon Connect discussions, I noticed that customers are reducing telephony budget and trying to direct the call volume to digital, such as chat. If this has becoming a budgeting situation, AWS might not standout in the pricing and sole Amazon Connect competition. In such cases, AWS needs to present the competency and eco-system of voice, text, chatbot, telephony, Sumerian, analytics, AI, Personalize, all on AWS platform. For example, I saw customers says their chatbot is on IBM, Voice is on Google, and telephony is with some other platform. It takes efforts to integrate all these aspects. So, if they are all on AWS, it reduces the integration efforts and can achieve higher business insights.
+Personalized Omni Channel Strategy and Amazon Connect. Couple of enterprise customers in Singapore are looking at Omni-channel solution. One example is OCBC. Omni channel generally refers to one central information or management platform and with support to multiple user engagement channels, e.g., text, voice. In AWS, the information collected from different channels can feedback to our analytics engine to personalize the consumer engagement. In some Amazon Connect discussions, I noticed that customers are reducing telephony budget and trying to direct the call volume to digital, such as chat. If this has becoming a budgeting situation, AWS might not standout in the pricing and sole Amazon Connect competition. In such cases, AWS needs to present the competency and eco-system of voice, text, chatbot, telephony, Sumerian, analytics, AI, Personalize, all on AWS platform. For example, I saw customers says their chatbot is on IBM, Voice is on Google, and telephony is with some other platform. It takes efforts to integrate all these aspects. So, if they are all on AWS, it reduces the integration efforts and can achieve higher business insights.
 
