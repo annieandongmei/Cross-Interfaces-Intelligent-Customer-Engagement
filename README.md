@@ -4,8 +4,8 @@
 This describes the Cross-Interfaces-Intelligent-Customer-Engagement. <br />
 **1. Why This is Important.** <br />
 **2. How to Architect it - a sample technical architecture diagram using AWS services.** (there can be various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.) <br />
-**3. What it Looks Like** - a demo <br/>
-**4. How to Build it** - a lab 
+**3. How to Build it** - a lab <br/>
+**4. What it Looks Like** - a demo 
 
 ## 1. Why This is Important ##
 IT has been a cost center traditionally in enterprise customers. Enterprises are transforming, but not yet making IT a powerful tool - an business enabler, a revenue generator. Digital-born companies like Uber, Airbnb, Grab are examples of using IT to enable businesses. Traditional enterprises' IT departments are cost center and they need to reduct cost. If cloud companies like AWS, Google, or MS keep engaging the IT departments, it’s definitely a price war. However, some other departments like marketing, advertising, communication are revenue center and they keep engaging with the consumers and need to keep thinking how to better serve the consumers to generate more revenue. If cloud companies play a role here, i.e., enabling enterprises to better serve their consumers to achieve revenue growth, it going to be mutual benefits for both enterprises and cloud companies.
@@ -22,9 +22,7 @@ In such cases, AWS has the competency and eco-system of voice, text, chatbot, te
 There are various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.
 ![Cross-Interfaces-Intelligent-Customer-Engagement.png](Cross-Interfaces-Intelligent-Customer-Engagement.png)
 
-## 3. What it Looks Like ##
-
-## 4. How to Build it ## 
+## 3. How to Build it ## 
 The lab is Lex-centered to demonstrate omni-channel. </br>
 
 Hands-on Lab Level 300~400 - **Build the new omni-channel in the fastest way using AWS: How to build ONE chatbot and use it on SIX channels? Web, Telephony (Amazon Connect), Facebook, Alexa, Mobile Apps, Virtual Avatar (Amazon Sumerian)** </br>
@@ -39,14 +37,20 @@ This Lab will cover AWS Lambda, Amazon Lex, Amazon Connect, Alexa Skill Kit, AWS
 **Detailed breakdown:**
 | AWS Services  | Features      | Remarks|
 |:------------- |:--------------|:------|
-| Amazon Lambda| Serverless, Lambda Triggers, Cloudwatch Monitoring, Data Dipping |  refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features  |
+| Amazon Lambda| Serverless, Lambda Triggers, Cloudwatch Monitoring |  refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features  |
 | Amazon Lex  | Integration with social media channels, such as Facebook, Integration with Web UI, Use Error Handling, Fallback Handing, Synonym, Custom Slots to Increase Accuracy, Conversation History, Logging, Natural Language Understanding v.s. Cards  | refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features |
-| AWS Connect | Setup Connect Instance, Claim Number, Create Callflow, Integration with Chatbot on Lex, Call Recording, Sentiments Analysis, Credit Card Masking, Data Dipping, etc.    | To contact Amazon Connect Specialist team for more detailed content to be included   |
+| AWS Connect | Setup Connect Instance, Claim Number, Create Callflow, Integration with Chatbot on Lex, Call Recording, Sentiments Analysis, Credit Card Masking, etc.    | To contact Amazon Connect Specialist team for more detailed content to be included   |
 | Alexa Skill Kit | Use of Lex Chatbot to create Alexa Skill, Design and Development of Alexa Skill, Design Principles of Voice Skills, Operational Best Practices - text vs voice, Monitoring Dashboard, etc. | This content is flexible, can be shorten or lengthen depending on time. refer https://alexaworkshop.com/custom-skill/ (content created in 2018) as an example, content to be updated with more features  |
 | AWS Mobile | Create a simple app, Integration with Chatbot    | This content is flexible, can be shorten or lengthen depending on time   |
+| AWS Sumerian | Create a scene, Integration with Lex Chatbot    | This content is flexible, can be shorten or lengthen depending on time   |
 
+## 4. What it Looks Like ##
+With the completion of the lab in section 3, audience is able to create a dialogue model in Lex and use it on Alexa (hands-free), Telephone call (agentless), Mobile, Web, and multiple Social Media platform. 
+ 
+If the allocated time for this session is less than 1 hour, a brief video demo will be created to show audience how to build it and what it looks like. 
 
-
+## Variations ##
+The lab can be modified to Amazon Connect centric (with both chat and call available for agents and callers, and real time sentiments analysis), Pinpoint and Personalize centric (with integration of SMS, Notification, Emails as the traditional customer channel and unify all channels for personalization) , etc.  
 
 ## Appendix ##
 
