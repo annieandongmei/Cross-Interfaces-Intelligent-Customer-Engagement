@@ -28,15 +28,23 @@ There are various ways of architecting this depending on the requirements. For e
 The lab is Lex-centered to demonstrate omni-channel. </br>
 
 Hands-on Lab Level 300~400 - **Build the new omni-channel in the fastest way using AWS: How to build ONE chatbot and use it on SIX channels? Web, Telephony (Amazon Connect), Facebook, Alexa, Mobile Apps, Virtual Avatar (Amazon Sumerian)** </br>
-This Lab will cover AWS Lambda, Amazon Lex, AWS Mobile Services, Alexa Skill Kit, Sumerian, Amazon Connect.</br>
+This Lab will cover AWS Lambda, Amazon Lex, Amazon Connect, Alexa Skill Kit, AWS Mobile Services,  Sumerian.</br>
 *This is draft only. The lab is modular and do not need to cover all channels if not required. If Amazon Connect is the focus, there can be more content on Amazon Connect, Data Dipping, Lambda, Lex, and no need to cover Web, Alexa, etc.*
 
 Detailed breakdown:
+Prequisites:
+1. AWS global region Account. Please open an AWS account. You need a valid credit card to set up your account.
+2. Amazon developer account. Go visit Amazon Developer Portal to create an account for free.
+3. Alexa APP. Please download Alexa APP using App Store or Google Play.
+
 | AWS Services  | Features      | Remarks|
 |:------------- |:--------------|:------|
-| col 3 is      | right-aligned | $1600  |
-| col 2 is      | centered      |   $12  |
-| zebra stripes | are neat      |    |
+| Amazon Lambda| right-aligned | $1600  |
+| Amazon Lex  | centered      |   $12  |
+| AWS Connect | are neat      |    |
+| Alexa Skill Kit | are neat      |    |
+| AWS Mobile | are neat      |    |
+
 
 
 
