@@ -31,19 +31,20 @@ Hands-on Lab Level 300~400 - **Build the new omni-channel in the fastest way usi
 This Lab will cover AWS Lambda, Amazon Lex, Amazon Connect, Alexa Skill Kit, AWS Mobile Services,  Sumerian.</br>
 *This is draft only. The lab is modular and do not need to cover all channels if not required. If Amazon Connect is the focus, there can be more content on Amazon Connect, Data Dipping, Lambda, Lex, and no need to cover Web, Alexa, etc.*
 
-Detailed breakdown:
-Prequisites:
-1. AWS global region Account. Please open an AWS account. You need a valid credit card to set up your account.
-2. Amazon developer account. Go visit Amazon Developer Portal to create an account for free.
-3. Alexa APP. Please download Alexa APP using App Store or Google Play.
+**Prequisites:**
+1. **AWS global region Account.** Please open an AWS account. You need a valid credit card to set up your account.
+2. **Amazon developer account.** Go visit Amazon Developer Portal to create an account for free.
+3. **Alexa APP.** Please download Alexa APP using App Store or Google Play.
 
+**Detailed breakdown:**
 | AWS Services  | Features      | Remarks|
 |:------------- |:--------------|:------|
-| Amazon Lambda| right-aligned | $1600  |
-| Amazon Lex  | centered      |   $12  |
-| AWS Connect | are neat      |    |
-| Alexa Skill Kit | are neat      |    |
-| AWS Mobile | are neat      |    |
+| Amazon Lambda| Serverless, Lambda Triggers, Cloudwatch Monitoring, Data Dipping |   |
+| Amazon Lex  | Integration with social media channels, such as Facebook, Integration with Web UI, Use Error Handling, Fallback Handing, Synonym, Custom Slots to Increase Accuracy, Conversation History, Logging, Natural Language Understanding v.s. Cards  |   |
+| AWS Connect | Setup Connect Instance, Claim Number, Create Callflow, Integration with Chatbot on Lex, Call Recording, Sentiments Analysis, Credit Card Masking, Data Dipping, etc.    | 
+@Amazon Connect Specialist team for more detailed content to be included   |
+| Alexa Skill Kit | Use of Lex Chatbot to create Alexa Skill, Design and Development of Alexa Skill, Design Principles of Voice Skills, Operational Best Practices - text vs voice, Monitoring Dashboard, etc. | This content is flexible, can be shorten or lengthen depending on time   |
+| AWS Mobile | Create a simple app, Integration with Chatbot    | This content is flexible, can be shorten or lengthen depending on time   |
 
 
 
