@@ -25,7 +25,7 @@ There are various ways of architecting this depending on the requirements. For e
 ## 3. What it Looks Like ##
 
 ## 4. How to Build it ## 
-The lab is Lex-centered to demonstrate omni-channel. 
+The lab is Lex-centered to demonstrate omni-channel. </br>
 Hands-on Lab Level 300 - **Build the new omni-channel in the fastest way using AWS: How to build ONE chatbot and use it on SIX channels? Web, Telephony, Facebook, Alexa, Mobile Apps, Sumerian (Virtual Avatar)** 
 This Lab will cover AWS Lambda, Amazon Lex, AWS Mobile Services, Alexa Skill Kit, Sumerian, Amazon Connect.
 
