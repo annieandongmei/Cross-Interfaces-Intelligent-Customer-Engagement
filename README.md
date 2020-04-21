@@ -6,6 +6,7 @@ This describes the Cross-Interfaces-Intelligent-Customer-Engagement. <br />
 **2. How to Architect it - a sample technical architecture diagram using AWS services.** (there can be various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.) <br />
 **3. How to Build it** - a lab <br/>
 **4. What it Looks Like** - a demo 
+**5. FAQ** 
 
 ## 1. Why This is Important ##
 IT has been a cost center traditionally in enterprise customers. Enterprises are transforming, but not yet making IT a powerful tool - an business enabler, a revenue generator. Digital-born companies like Uber, Airbnb, Grab are examples of using IT to enable businesses. Traditional enterprises' IT departments are cost center and they need to reduct cost. If cloud companies like AWS, Google, or MS keep engaging the IT departments, it’s definitely a price war. However, some other departments like marketing, advertising, communication are revenue center and they keep engaging with the consumers and need to keep thinking how to better serve the consumers to generate more revenue. If cloud companies play a role here, i.e., enabling enterprises to better serve their consumers to achieve revenue growth, it going to be mutual benefits for both enterprises and cloud companies.
@@ -49,6 +50,16 @@ This Lab will cover AWS Lambda, Amazon Lex, Amazon Connect, Alexa Skill Kit, AWS
 With the completion of the lab in section 3, audience is able to create a dialogue model in Lex and use it on Alexa (hands-free), Telephone call (agentless), Mobile, Web, and multiple Social Media platform. 
  
 If the allocated time for this session is less than 1 hour, a brief video demo will be created to show audience how to build it and what it looks like. 
+
+## 5. FAQ ##
+1. **Data Masking.** 
+to be added
+2. **Data Encription.** 
+to be added
+3. **Roles and teams.** 
+to be added
+
+
 
 ## Variations ##
 The lab can be modified to **Amazon Connect centric** (with both chat and call available for agents and callers, and real time sentiments analysis), **Pinpoint and Personalize centric** (with integration of SMS, Notification, Emails as the traditional customer channel and unify all channels for personalization) , etc.  
