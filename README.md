@@ -52,11 +52,11 @@ With the completion of the lab in section 3, audience is able to create a dialog
 If the allocated time for this session is less than 1 hour, a brief video demo will be created to show audience how to build it and what it looks like. 
 
 ## 5. FAQ ##
-1. **Data Masking.** 
+1. **Data Masking.** </br>
 to be added
-2. **Data Encription.** 
+2. **Data Encription.** </br>
 to be added
-3. **Roles and teams.** 
+3. **Roles and teams.** </br>
 to be added
 
 
