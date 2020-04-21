@@ -5,7 +5,7 @@ This describes the Cross-Interfaces-Intelligent-Customer-Engagement. <br />
 **1. Why This is Important.** <br />
 **2. How to Architect it - a sample technical architecture diagram using AWS services.** (there can be various ways of architecting this depending on the requirements. For example, it can be Lex-centered, Amazon Connect-centered. In this example, it is Pinpoint-centered.) <br />
 **3. How to Build it** - a lab <br/>
-**4. What it Looks Like** - a demo 
+**4. What it Looks Like** - a demo <br/>
 **5. FAQ** 
 
 ## 1. Why This is Important ##
@@ -52,11 +52,11 @@ With the completion of the lab in section 3, audience is able to create a dialog
 If the allocated time for this session is less than 1 hour, a brief video demo will be created to show audience how to build it and what it looks like. 
 
 ## 5. FAQ ##
-1. **Data Masking.** </br>
+1. **Data Masking.** <br/>
 to be added
-2. **Data Encription.** </br>
+2. **Data Encription.** <br/>
 to be added
-3. **Roles and teams.** </br>
+3. **Roles and teams.** <br/>
 to be added
 
 
